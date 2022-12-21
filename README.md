@@ -9,6 +9,10 @@ Este é um projeto simples que gera 6 números aleatórios e permite que o usuá
   <a href="#memo-licença">Licença</a>
 </p>
  
+ <p align="center">
+  <img alt="Logo" src="./images/logo2.png"  width="400" height="400">
+</p>
+ 
  
 ## Como usar
 Para usar o projeto MegaSena, basta acessar a página do projeto e seguir as instruções na tela. Preencha os 6 campos com os números que você acha que foram gerados aleatoriamente e clique em "Jogar" para ver se você acertou.

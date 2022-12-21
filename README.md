@@ -26,3 +26,25 @@ O projeto MegaSena foi desenvolvido utilizando as seguintes tecnologias e lingua
 
 ## :memo: Licença
 O projeto MegaSena está licenciado sob a Licença MIT. Isso significa que você pode usar, modificar e distribuir o projeto de acordo com os termos da licença.
+
+<h1> Contributors </h1>
+
+<!-- readme: contributors -start -->
+<table>
+<tr>
+    <td align="center">
+        <a href="https://github.com/LucasMKS">
+            <img src="https://avatars.githubusercontent.com/u/111651260?v=4" width="100;" alt="Lucas Marques"/>
+            <br />
+            <sub><b>Lucas Marques</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/sudariogoncalves">
+            <img src="https://avatars.githubusercontent.com/u/90568300?v=4" width="100;" alt="Sudário Gonçalves"/>
+            <br />
+            <sub><b>Sudário Gonçalves</b></sub>
+        </a>
+    </td>
+</tr>
+ </table>
